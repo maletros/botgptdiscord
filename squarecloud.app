@@ -1,0 +1,5 @@
+DISPLAY_NAME=Nerd
+MAIN=main.py
+MEMORY=128
+VERSION=recommended
+DESCRIPTION=ChatGPT Bot
